@@ -5,4 +5,4 @@ const giveMeRightNumbers = (value1, value2, maximum) => {
     console.log('Something wrong!');
   }
 }
-giveMeRightNumbers(280, 200, 209)
+giveMeRightNumbers(280, 210, 209);
